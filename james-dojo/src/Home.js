@@ -30,13 +30,7 @@ const Home = () => {
                     </div>
                 ))}
             </div>
-        </div>    
-            {/* <h2>Homepage</h2>
-            <button>Click me</button>
-            <p>{ name }</p>
-            <button onClick={() => {
-                handleClickAgain('mario');
-            }}>Click me again</button> */}
+        </div>  
     );
 }
 
